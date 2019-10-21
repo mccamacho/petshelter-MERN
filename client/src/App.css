@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.jumbotron{
+  text-align: center;
+}
+.App-link {
+  color: #09d3ac;
+}
+
+.quotebox{
+  height: 100%;
+  font-size: 20px;
+  border-bottom: 1px solid black;
+  padding-bottom: 15px;
+  text-align: center;
+  
+}
+strong,h2{
+  margin-left: 35px;
+}
+
+.onequote{
+  margin: 0 auto;
+  text-align: center;
+  font-size: 25px;
+}
+form{
+  text-align: center;
+}
+.table{
+  padding-left: 5%;
+}
+ul{
+  list-style-type: none;
+}
+#addpet{
+  margin-bottom: 10px;
+}
+span{
+  color: red;
+}
